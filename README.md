@@ -6,4 +6,4 @@
 1. All Data Integrated with MongoDB
 
 ## Live Link
-Hosted in Firebase -> [Task-Manger](https://64cbad24940fb97c0489b5ee--tranquil-tulumba-e1d088.netlify.app/)
+Hosted in Netlify -> [Task-Manger](https://64cbad24940fb97c0489b5ee--tranquil-tulumba-e1d088.netlify.app/)
