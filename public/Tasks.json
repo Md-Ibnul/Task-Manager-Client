@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "Task 1",
+      "description": "This is the first task for this task site ",
+      "due_date": "2023-08-10",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "title": "Task 2",
+      "description": "This is the second task",
+      "due_date": "2023-08-15",
+      "status": "in_progress"
+    },
+    {
+      "id": 3,
+      "title": "Task 3",
+      "description": "This is the third task",
+      "due_date": "2023-08-20",
+      "status": "completed"
+    }
+  ]
