@@ -1,8 +1,9 @@
-# React + Vite
+# Task-Manager Repository
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ This is a Task Manage related website. You can add or remove your task.
 
-Currently, two official plugins are available:
+## Features of this site
+1. All Data Integrated with MongoDB
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Link
+Hosted in Firebase -> [Task-Manger](https://64cbad24940fb97c0489b5ee--tranquil-tulumba-e1d088.netlify.app/)
